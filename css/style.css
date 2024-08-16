@@ -106,10 +106,9 @@
     max-width: 1000px;
     margin: 0 auto;
     display: grid;
-  
+    padding: 60px 0px;
     grid-template-areas: 
     "a b c d"
- 
     ;
     gap: 10px;
 }
